@@ -11,7 +11,7 @@
  ### Principais tecnologias:
  <div style="display: inline_block"><br>
 <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
 </div>
 
 ##
